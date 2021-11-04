@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpaceGeApp.API", "SpaceGeApp.API\SpaceGeApp.API.csproj", "{554B750C-C1EB-4858-AAC8-51CD85614D93}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpaceGeApp.Core", "SpaceGeApp.Core\SpaceGeApp.Core.csproj", "{0C37BD29-0349-4CA6-A592-7B2397FA2CE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceGeApp.Scheduler", "SpaceGeApp.Scheduler\SpaceGeApp.Scheduler.csproj", "{DF37AD13-D1B5-4543-BC57-87A46C04117E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{554B750C-C1EB-4858-AAC8-51CD85614D93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{554B750C-C1EB-4858-AAC8-51CD85614D93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{554B750C-C1EB-4858-AAC8-51CD85614D93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{554B750C-C1EB-4858-AAC8-51CD85614D93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C37BD29-0349-4CA6-A592-7B2397FA2CE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C37BD29-0349-4CA6-A592-7B2397FA2CE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C37BD29-0349-4CA6-A592-7B2397FA2CE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C37BD29-0349-4CA6-A592-7B2397FA2CE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF37AD13-D1B5-4543-BC57-87A46C04117E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF37AD13-D1B5-4543-BC57-87A46C04117E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF37AD13-D1B5-4543-BC57-87A46C04117E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF37AD13-D1B5-4543-BC57-87A46C04117E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F245888-914E-473E-B40B-E10E495AE06C}
+	EndGlobalSection
+EndGlobal
